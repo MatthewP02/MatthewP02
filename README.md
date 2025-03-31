@@ -5,6 +5,4 @@
 -->
 - 🔭 I’m currently working on solidity contract integrations
 - 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about my dog 🐶
 - 📫 How to reach me: matthewphillipssc@gmail.com
